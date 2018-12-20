@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-main()
+main(void)
 {
    printf("\n");
    int n1 = 12, n2 = 15, nAnswer;
